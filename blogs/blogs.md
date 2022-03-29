@@ -1,0 +1,11 @@
+### Blogs Links
+- https://stackoverflow.blog/
+- https://github.blog/category/engineering/
+- https://blog.heroku.com/engineering
+- https://netflixtechblog.com/
+- https://engineering.linkedin.com/blog
+- https://instagram-engineering.com/
+- https://eng.uber.com/
+- https://medium.com/airbnb-engineering
+- https://github.com/kilimchoi/engineering-blogs
+- https://github.com/freeCodeCamp/- how-to-contribute-to-open-source
